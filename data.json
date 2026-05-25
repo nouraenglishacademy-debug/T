@@ -1,0 +1,14 @@
+{
+  "products": [
+    {"id": 1, "name": "ساعة رولكس فاخرة", "price": 1250, "category": "ساعات", "img": "https://picsum.photos/id/156/400/300"},
+    {"id": 2, "name": "آيفون 15 برو", "price": 1299, "category": "هواتف", "img": "https://picsum.photos/id/0/400/300"},
+    {"id": 3, "name": "ماك بوك برو M3", "price": 2499, "category": "لابتوب", "img": "https://picsum.photos/id/20/400/300"},
+    {"id": 4, "name": "تي شيرت قطني", "price": 35, "category": "ملابس", "img": "https://picsum.photos/id/36/400/300"},
+    {"id": 5, "name": "سماعات لاسلكية", "price": 89, "category": "اكسسوارات", "img": "https://picsum.photos/id/2/400/300"}
+  ],
+  "settings": {
+    "seller_phone": "201112005457",
+    "support_link": "https://wa.me/201112005457"
+  },
+  "custom_css": "body { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); }"
+}
